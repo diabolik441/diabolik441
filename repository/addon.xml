@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.CHANGEME" name="CHANGEME" version="0.0.1" provider-name="CHANGEME">
-	<extension point="xbmc.addon.repository" name="CHANGEME Repository">
+<addon id="repository.diabolik441" name="diabolik441 repository" version="0.0.1" provider-name="SD">
+	<extension point="xbmc.addon.repository" name="diabolik441 Repository">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
 		</dir>
-		<info compressed="false">https://raw.githubusercontent.com/USERNAME/repository.CHANGEME/master/zips/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/USERNAME/repository.CHANGEME/master/zips/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/USERNAME/repository.CHANGEME/master/zips/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/diabolik441/repository.diabolik441/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/diabolik441/repository.diabolik441/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/diabolik441/repository.diabolik441/master/zips/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">CHANGEME</summary>
-		<description lang="en">CHANGEME</description>
+		<summary lang="en">diabolik441 repository</summary>
+		<description lang="en">SD repository</description>
 		<genre></genre>
 	</extension>
 </addon>
