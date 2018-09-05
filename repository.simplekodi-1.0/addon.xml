@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.simplekodi" name="Simple Kodi" version="1.0" provider-name="Simple Kodi">
+	<extension point="xbmc.addon.repository" name="Simple Kodi">
+		<info compressed="false">addons.xml</info>
+		<checksum>addons.xml.md5</checksum>
+		<datadir zip="true">Zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Simple Kodi Tutorial.</summary>
+		<description>How to create a Kodi Repository</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
